@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Tremayne Duffus
+   # Tremayne Duffus (treyduffus)
 
    # Input:
    # p, principal amount
